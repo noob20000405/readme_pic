@@ -1,1 +1,1 @@
-Repository for pics in readme
+Repository for pictures in readme
